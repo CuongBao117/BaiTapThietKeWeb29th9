@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 30px; }
+#calc input { padding: 4px; }
+#calc button { width: 30px; height: 28px; cursor: pointer; }
+#msg { color: red; }

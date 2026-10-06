@@ -1,0 +1,7 @@
+body { font-family: Verdana, Arial, sans-serif; font-size: 13px; }
+h3 { color: #1b5e20; text-align: center; }
+table { margin: 0 auto; }
+td { padding: 4px; }
+.lbl { text-align: right; }
+.err { color: red; margin-left: 8px; font-size: 12px; }
+#success { text-align: center; color: green; font-weight: bold; }
